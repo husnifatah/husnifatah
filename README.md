@@ -15,7 +15,7 @@
 
 ### 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,flask,go,supabase,git,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,flask,django,go,supabase,git,linux,bash,vscode,vscodium" />
 </p>
 
 ---
@@ -37,10 +37,10 @@
 
 ### 📬 Let’s Connect
 <p>
-  <a href="https://husnifatah.dev" target="_blank">🌐 Website</a> |
-  <a href="mailto:husni.fatah@ecampus.ut.ac.id" target="_blank">📧 Email</a> |
-  <a href="https://linkedin.com/in/husnifatah" target="_blank">🔗 LinkedIn</a> |
-  <a href="https://t.me/husnifatah" target="_blank">💬 Telegram</a>
+  <a href="https://husnifatah.vercel.app" target="_blank">🌐 Website</a> |
+  <a href="mailto:husnifatah0@gmail.com" target="_blank">📧 Email</a> |
+  <a href="https://linkedin.com/in/husni-fatah-7b3b13262" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://t.me/pythoht" target="_blank">💬 Telegram</a>
 </p>
 
 ---
