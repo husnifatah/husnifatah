@@ -15,7 +15,7 @@
 - 🌐 Focused on **Full‑stack Web Development** using `Next.js`, `Flask`, `Tailwind`, `Supabase`
 - 🛡️ Exploring the world of **Offensive Security** and Ethical Hacking
 - 🧠 Learning by breaking things, fixing them, and sharing the knowledge
-- 🌙 Often coding under the stars—astronomy lover 🌌
+- 🌙 Often coding under the stars astronomy lover 🌌
 
 ---
 
